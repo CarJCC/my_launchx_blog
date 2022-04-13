@@ -9,3 +9,5 @@ description: 'Te voy a contar mi travesía en Launch X'
 - HTML
 - CSS
 - JAVA
+
+Gracias por leer.

@@ -8,6 +8,6 @@ description: 'Te voy a contar mi travesía en Launch X'
 
 - HTML
 - CSS
-- JAVA
+- JS
 
 Gracias por leer.

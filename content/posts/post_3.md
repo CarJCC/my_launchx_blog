@@ -1,6 +1,6 @@
 ---
 title: "Haz una prueba sin costo"
-date: 2022-05-21
+date: 2022-05-22
 description: '¡Conozcámonos!, mándame un mensaje para agendar una clase muestra gratuita.'
 ---
 

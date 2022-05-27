@@ -1,12 +1,14 @@
 ---
 title: "Costos"
-date: 2022-05-22
+date: 2022-05-21
 description: 'Los costos varían de acuerdo al nivel y al número de alumnos.'
 ---
 
 > Las clases tienen duración de una hora.
 
 > Las clases grupales son para 3 o más alumnos.
+
+>Los precios de las clases individuales disminuirán si se toma más de una clase a la semana. 
 
 > Los pagos se pueden hacer vía depósito bancario o Paypal.
 

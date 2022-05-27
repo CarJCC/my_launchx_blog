@@ -1,14 +1,9 @@
 {
   "links": [
     {
-      "name": "twitter",
-      "url": "https://twitter.com/JoaquinCasta",
-      "image": "images/social/twitter.svg"
-    },
-    {
-      "name": "github",
-      "url": "https://github.com/CarJCC",
-      "image": "images/social/github.svg"
-    }
+      "name": "Whatsapp",
+      "url": "https://api.whatsapp.com/send/?phone=525571749770&text=%C2%A1Hola%21%0A%0AMe+interesa+tomar+clases+contigo%2C+los+temas+en+los+que+tengo+dudas+son%3A&app_absent=0",
+      "image": "images/social/Whatsapp.svg"
+    } 
   ]
 }

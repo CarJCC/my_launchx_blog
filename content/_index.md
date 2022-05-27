@@ -1,10 +1,9 @@
 ---
-title: Launch X Bitácora de viaje
+title: Profesor de Matemáticas
 description: The hallway smelt of boiled cabbage and old rag mats.
 ---
 
-Hola ✌️  soy el explorer **Joaquín** y este es mi blog personal donde compartiré mis aventuras de Launch X.
+Aquí encontrarás más información sobre mí y sobre las clases que doy, te invito a navegar por las pestañas para conocer los costos y recursos que utilizo.
 
-Te invito a conocer mis aprendizajes y leer mis experiencias.
+Si quieres contactar conmigo, solamente tienes que dar clic en el icono de abajo y abrirás tu aplicación de Whatsapp.
 
-🚀

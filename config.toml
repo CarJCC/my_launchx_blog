@@ -1,6 +1,6 @@
 baseURL = "https://carjcc.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje de Joaquín Castañeda"
+title = "Clases de Matemáticas en línea."
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true

@@ -1,12 +1,14 @@
 ---
 title: "Costos"
-date: 
+date: 2022-05-21
 description: 'Los costos varían de acuerdo al nivel y al número de alumnos.'
 ---
 
 > Las clases tienen duración de una hora.
 
 > Las clases grupales son para 3 o más alumnos.
+
+> Los pagos se pueden hacer vía depósito bancario o Paypal.
 
 **Primaria y Secundaria**
 

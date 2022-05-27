@@ -1,6 +1,6 @@
 ---
 title: "¿Qué temas puedo dar?"
-date: 
+date: 2022-05-20
 description: 'Doy clases de nivel Primaria, Secundaria, Bachillerato y Universidad.'
 ---
 

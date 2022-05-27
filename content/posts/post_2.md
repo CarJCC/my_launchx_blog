@@ -1,6 +1,6 @@
 ---
 title: "Costos"
-date: 2022-05-21
+date: 2022-05-22
 description: 'Los costos varían de acuerdo al nivel y al número de alumnos.'
 ---
 

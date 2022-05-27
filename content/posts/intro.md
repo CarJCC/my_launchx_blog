@@ -1,6 +1,6 @@
 ---
 title: "¿Cómo son mis clases?"
-date: 2022-05-19
+date: 2022-05-24
 description: 'Encontrarás información sobre cómo doy las clases.'
 ---
 

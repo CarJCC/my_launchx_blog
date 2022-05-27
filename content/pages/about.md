@@ -2,7 +2,7 @@
 title: 'Sobre mi'
 menu:
   main:
-    name: "SobreMi"
+    name: "Sobre_Mi"
 ---
 
 ## Aquí vas a leer un poco sobre mi.

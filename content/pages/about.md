@@ -15,7 +15,7 @@ menu:
 
 > Trabajé 8 meses como asesor en Kumon, en donde me hacía cargo de todos los alumnos de nivel secundaria en adelante (Niveles J a O). A veces atendiendo las dudas de más de 20 personas a la vez.
 
-> Durante la carrera aprendí a usar muchas herramientas que puedo utilizar para explicar muchísimos temas, entre ellas **Geogebra**, **Mathematica**, **Mathlab**, **R Studio** y **Phyton**, con el que sé hacer animaciones como las que puedes encontrar en el canal de Youtube [3Blue1Brown](https://www.youtube.com/c/3blue1brown) y en [Animathica](https://www.youtube.com/channel/UCzkyH2bxpesubzc87VxqDiA).
+> Durante la carrera aprendí a usar muchas herramientas que puedo utilizar para explicar muchísimos temas, entre ellas **Geogebra**, **Mathematica**, **Mathlab** y **Phyton**, con el que sé hacer animaciones como las que puedes encontrar en el canal de Youtube [3Blue1Brown](https://www.youtube.com/c/3blue1brown) y en [Animathica](https://www.youtube.com/channel/UCzkyH2bxpesubzc87VxqDiA).
 
 
 > Me gustan mucho los idiomas, tengo una certificación B2 en Inglés y A2 en Francés. De hecho, si es necesario, podría enseñar matemáticas a personas de habla inglesa.

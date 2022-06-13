@@ -7,7 +7,7 @@ Aquí encontrarás más información sobre mí y sobre las clases que doy, te in
 
 Si quieres contactar conmigo, solamente tienes que dar clic en el icono de abajo y abrirás tu aplicación de Whatsapp.
 
-Aquí encontrarás información sobre mí {% include_relative about.md %}.
+Aquí encontrarás información sobre mí [An Internal Link](/pages/about.md).
 
-Y aquí puedes ver todo sobre las clases que puedo impartir {% include_relative /post._index.md %}.
+Y aquí puedes ver todo sobre las clases que puedo impartir [An Internal Link](/posts/_index.md).
 
